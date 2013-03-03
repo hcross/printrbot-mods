@@ -1,1 +1,6 @@
 _site
+src/*.skb
+src/*.lxm
+src/*.lxs
+src/*.png
+src/*.lxo
