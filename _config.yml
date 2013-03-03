@@ -7,7 +7,7 @@
 ## Uses distinct namespace. Jekyll settings should go at the root level.
 githubiverse:
     ## Metadata
-    title: "Printrbot Plus mods by Hoani CROSS"
+    title: "Printrbot Plus Mods"
     author: Hoani CROSS
     license: GPL3
     tags: [printrbot, reprap, mods]
