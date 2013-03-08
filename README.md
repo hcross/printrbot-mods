@@ -10,6 +10,8 @@ My modifications on the original Printrbot Plus.
 5. 20cm x 21cm borosicate glass (from [lulzbot.com](http://lulzbot.com)) holder,
 6. Printrbot Plus nut keeper, derived from [this](http://www.thingiverse.com/thing:30160) and [available on thingiverse too](http://www.thingiverse.com/thing:30830),
 7. Z-stop dial with knurled top,
-8. Y-Axis bearing guide compatible with original Printrbot Y-Axis stabilizer [derived from thingiverse](http://www.thingiverse.com/thing:29985).
+8. Y-Axis bearing guide compatible with original Printrbot Y-Axis stabilizer [derived from thingiverse](http://www.thingiverse.com/thing:29985),
+9. Push-fit filament guide for Printrbot Super-Z,
+10. Wades extruder bowden setup adaptor for Printrbot Super-Z.
 
 You can follow my work on [Google+](https://plus.google.com/u/0/113316803017271775677/posts) too !
