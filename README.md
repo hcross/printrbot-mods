@@ -12,6 +12,9 @@ My modifications on the original Printrbot Plus.
 7. Z-stop dial with knurled top,
 8. Y-Axis bearing guide compatible with original Printrbot Y-Axis stabilizer [derived from thingiverse](http://www.thingiverse.com/thing:29985),
 9. Push-fit filament guide for Printrbot Super-Z,
-10. Wades extruder bowden setup adaptor for Printrbot Super-Z.
+10. Wades extruder bowden setup adaptor for Printrbot Super-Z,
+11. Quick-Fit Ubis Hotend Push-fit bowden adaptor.
+
+All the Push-fit fits 6mm OD tubing (PTFE is better) and has a M6 thread at one side. I usually drill them with 3.5mm bit. I also drill a chamfer using a 4mm bit and a 5mm bit.
 
 You can follow my work on [Google+](https://plus.google.com/u/0/113316803017271775677/posts) too !
