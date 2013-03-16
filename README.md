@@ -13,7 +13,8 @@ My modifications on the original Printrbot Plus.
 8. Y-Axis bearing guide compatible with original Printrbot Y-Axis stabilizer [derived from thingiverse](http://www.thingiverse.com/thing:29985),
 9. Push-fit filament guide for Printrbot Super-Z,
 10. Wades extruder bowden setup adaptor for Printrbot Super-Z,
-11. Quick-Fit Ubis Hotend Push-fit bowden adaptor.
+11. Quick-Fit Ubis Hotend Push-fit bowden adaptor,
+12. Polakium Engineering X-Axis for Printrbot LC and Plus support for the part #10.
 
 All the Push-fit fits 6mm OD tubing (PTFE is better) and has a M6 thread at one side. I usually drill them with 3.5mm bit. I also drill a chamfer using a 4mm bit and a 5mm bit.
 
